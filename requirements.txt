@@ -5,3 +5,4 @@ langchain-groq
 langgraph
 duckduckgo-search
 pyngrok
+ddgs
